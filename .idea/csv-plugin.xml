@@ -59,7 +59,35 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\03 Dataloader\dataset.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\03 Dataloader\rmb_classification.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\03_Dataloader\dataloader.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\03_Dataloader\dataset.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\03_Dataloader\lenet.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
